@@ -1,0 +1,46 @@
+.page-top{
+    position: absolute;
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+}
+.logo-img{
+    position: absolute;
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+}
+.nav{
+    display: flex;
+    flex-direction: row; 
+    margin-top: 25px;
+    padding: 5px;
+    
+}
+.nav-link{
+    color: gray;
+}
+.nav-pills{
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+.illustration-ig{
+    /* position: absolute; */
+    /* width: 554px;
+    height: 346px;
+    left: 691px; */
+    /* top: 157px; */
+}
+.row{
+    margin-top: 100px;
+}
+.get-bt{
+    border: none;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 25px;
+}
